@@ -1,6 +1,6 @@
 ﻿ILongLong a = new LongLong(1234373735672, 1257572572457);
-LongLong b = new LongLong(10, 20);
-LongLong c = new LongLong(20, 20);
+LongLong b = new LongLong(1234373735672, 1257572572457);
+LongLong c = new LongLong(123456789024253, 132465467577686899);
 bool exit = false;
 while (!exit)
 {
